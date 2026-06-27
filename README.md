@@ -1,6 +1,6 @@
 
 # Hi, I'm Oshan 👋
-I’m a passionate Full-Stack Software Engineering undergraduate in my final year at Birmingham City University based in Sri Lanka,<br>building modern applications and creative digital experiences.<br><br> • Interested in:<br>🌐 Full-Stack Web Development<br>🎨 UI/UX & Frontend Design<br>🎮 Game Development<br>🤖 AI Content Creation<br>🚀 Creative Tech Projects
+I'm a Software Engineering undergraduate in my final year at Birmingham City University, based in Sri Lanka. My main focus is Game Development, where I bring imaginative worlds to life through code, alongside building modern full-stack applications and creative digital experiences.<br><br> • Interested in:<br>🎮 Game Development<br>🌐 Full-Stack Web Development<br>🎨 UI/UX & Frontend Design<br>🤖 AI Content Creation<br>🚀 Creative Tech Projects
 
 
 ## 🌐 Socials:
