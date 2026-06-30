@@ -13,10 +13,4 @@ I'm a Software Engineering undergraduate in my final year at Birmingham City Uni
 ![](https://streak-stats.demolab.com/?user=OshanDotMe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=OshanDotMe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OshanDotMe&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=OshanDotMe&icon=0&color=2)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
