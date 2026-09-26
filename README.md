@@ -10,7 +10,7 @@ I'm a Software Engineering undergraduate in my final year at Birmingham City Uni
 # 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,blender,bootstrap,css,docker,figma,firebase,git,github,godot,html,ai,ps,java,mysql,nodejs,php,py,react,ts" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,blender,bootstrap,css,docker,figma,firebase,git,github,godot,html,ai,ps,java,mysql,nodejs,php,py,react,ts,nextjs" />
   </a>
 </p>
 
