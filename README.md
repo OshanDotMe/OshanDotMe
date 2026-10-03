@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&fontColor=f7f5f5&height=200&text=SKYRELIC&fontAlign=80&fontAlignY=40&color=780206&descSize=15&desc=powered%20by%20Oshan%20adithya&descAlign=87)
 # Hi, I'm Oshan
-I'm a Software Engineering undergraduate in my final year at Birmingham City University, based in Sri Lanka. My main focus is Game Development, where I bring imaginative worlds to life through code, alongside building modern full-stack applications and creative digital experiences.<br><br> • Interested in:<br>🎮 Game Development<br>🌐 Full-Stack Web Development<br>🎨 UI/UX & Frontend Design<br>🤖 AI Content Creation<br>🚀 Creative Tech Projects
+I'm a Software Engineering undergraduate in my final year at Birmingham City University, based in Sri Lanka. My main focus is Game Development, where I bring imaginative worlds to life through code, alongside building modern full-stack applications, websites and creative digital experiences.<br><br> • Interested in:<br>🎮 Game Development<br>🌐 Full-Stack Web Development<br>🎨 UI/UX & Frontend Design<br>🤖 AI Content Creation<br>🚀 Creative Tech Projects
 
 
 ## 🌐 Socials:
